@@ -6,7 +6,7 @@ The goal of this project was to analyze credit card transaction data and uncover
 
 
 ## Steps
-#### Data Cleaning & Preprocessing:
+#### 1) Data Cleaning & Preprocessing:
 Prepared and cleaned the dataset, ensuring data accuracy and consistency.
 #### Data Modeling: 
 Used Power BI to create calculated fields and measures for deeper insights into revenue, transaction volumes, and customer segmentation.
