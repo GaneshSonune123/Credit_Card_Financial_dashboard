@@ -4,14 +4,20 @@
 The goal of this project was to analyze credit card transaction data and uncover insights on customer spending behavior, revenue generation, and card usage patterns using Power BI.
 
 ### Steps:
-Data Cleaning & Preprocessing: Prepared and cleaned the dataset, ensuring data accuracy and consistency.
-Data Modeling: Used Power BI to create calculated fields and measures for deeper insights into revenue, transaction volumes, and customer segmentation.
-Visualization: Built interactive dashboards to explore data on various dimensions like:
+#### Data Cleaning & Preprocessing:
+Prepared and cleaned the dataset, ensuring data accuracy and consistency.
+
+#### Data Modeling: 
+Used Power BI to create calculated fields and measures for deeper insights into revenue, transaction volumes, and customer segmentation.
+
+#### Visualization:
+Built interactive dashboards to explore data on various dimensions like:
 Expenditure categories (Bills, Entertainment, Fuel, etc.)
 Customer demographics (Education, Job, Age)
 Card types (Blue, Silver, Gold, Platinum)
 Transaction methods (Swipe, Chip, Online)
-Analysis: Generated insights by exploring the correlations between customer attributes and transaction behavior.
+Analysis:
+Generated insights by exploring the correlations between customer attributes and transaction behavior.
 
 ### Key Insights:
 Top Revenue Sources: The highest revenue came from the Blue card category, totaling $46M, followed by the Silver category at $6M.
