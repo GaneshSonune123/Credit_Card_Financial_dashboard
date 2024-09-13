@@ -1,9 +1,10 @@
 # Credit_Card_Financial_dashboard
 
-## Objective:
+## Objective
 The goal of this project was to analyze credit card transaction data and uncover insights on customer spending behavior, revenue generation, and card usage patterns using Power BI.
 
-### Steps:
+
+### Steps
 #### Data Cleaning & Preprocessing:
 Prepared and cleaned the dataset, ensuring data accuracy and consistency.
 #### Data Modeling: 
@@ -17,7 +18,8 @@ Transaction methods (Swipe, Chip, Online)
 #### Analysis:
 Generated insights by exploring the correlations between customer attributes and transaction behavior.
 
-### Key Insights:
+
+### Key Insights
 #### Top Revenue Sources:
 The highest revenue came from the Blue card category, totaling $46M, followed by the Silver category at $6M.
 #### Spending by Occupation:
