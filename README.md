@@ -4,6 +4,7 @@
 The goal of this project was to analyze credit card transaction data and uncover insights on customer spending behavior, revenue generation, and card usage patterns using Power BI.
 
 
+
 ## Steps
 #### Data Cleaning & Preprocessing:
 Prepared and cleaned the dataset, ensuring data accuracy and consistency.
@@ -17,6 +18,7 @@ Card types (Blue, Silver, Gold, Platinum)
 Transaction methods (Swipe, Chip, Online)
 #### Analysis:
 Generated insights by exploring the correlations between customer attributes and transaction behavior.
+
 
 
 ## Key Insights
